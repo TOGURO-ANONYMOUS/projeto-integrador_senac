@@ -1,0 +1,11 @@
+git clone caminho-repositorio (clonar o seu repositorio)
+git branch (ver branchs disponiveis)
+git add nome-do-arquivo ( adicionar um arquivo)
+git commit -m "mensagem" (prepara o arquivo para o envio)
+git pull (puxa para a nuvem)
+git push (envia os arquivos para a nuvem)
+git branch nova-branch (cria uma nova branch)
+git status 
+git merge nome-branch (junta duas branch)
+git checkout nome-branch (troca sua branch)
+git push origin --delete nome-branch (deleta uma branch)
